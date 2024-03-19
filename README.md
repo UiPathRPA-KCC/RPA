@@ -4,3 +4,6 @@
 
 # 교육평가서 링크
 https://forms.gle/8BBj2xriYTbvJzGR6
+
+# 교육 강사 이메일
+hjchoi@kcc.co.kr
