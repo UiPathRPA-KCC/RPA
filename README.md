@@ -3,7 +3,7 @@
 2. 실습 파일을 다운로드 받으면 1순위는 C드라이브에 압축 해제 해주세요. 2순위는 기억하기 쉬운 폴더 위치입니다.
 
 # 교육 강사 이메일
-hjchoi@kcc.co.kr
+hjchoi@kcc.co.kr (최효준 전임)
 
 # 교육평가서 링크
 https://forms.gle/8BBj2xriYTbvJzGR6
