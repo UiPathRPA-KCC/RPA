@@ -1,0 +1,92 @@
+DataBase Test
+1. "Select * From LoanApplicants where UserID="+User_ID
+
+Test Manager
+
+요구 사항1
+1. 이름 : 프로젝트코드_RF001. RPA Sample Site
+2. 설명 : RAP Sample Site 동작 여부 확인한다.
+
+요구 사항2
+1. 이름 : 프로젝트코드_RF002.UiBank Site
+2. 설명 : UiBank에서 loan 동작 여부를 확인한다.
+
+테스트 사례1
+1. 이름 : 프로젝트코드_RF001_TC001.Find your Unicorn Name
+2. 설명 : RPA Sample 사이트의 Find Your Unicorn Name이 동작하는지를 확인한다.
+3. 레이블 : RF001
+4. 수동단계
+4.1. 단계 1/4
+설명 : 웹 브라우저에서 https://www.rpasamples.com/findunicornname 으로 이동한다
+예상되는 동작 : findunicornname  사이트가 오픈된다
+클립보드 데이터 : An app for learning UI Automation with UiPath
+
+4.2. 단계 2/4
+설명 : What is your name? 텍스트필드에 "UiPath" 입력
+예상되는 동작 : Enter your name 에 Uipath 글자가 채워진다
+클립보드 데이터 : UiPath
+
+4.3. 단계 3/4
+설명 : What month were you born? 리스트 박스 February선택
+예상되는 동작 : 리스트박스에서 February가 선택된다.
+클립보드 데이터 : February
+
+4.4. 단계 4/4
+설명 : Get Unicorn Name 클릭
+예상되는 동작 : Creative Twinkle-Sweet 글자 출력
+클립보드 데이터 : Creative Twinkle-Sweet
+
+테스트 사례2
+1. 이름 : 프로젝트코드_RF002_TC001. Apply For a Loan
+2. 설명 : 수입과 연령에 따른 대출 가능 여부를 확인한다.
+3. 레이블 : RF002
+4. 수동단계
+4.1. 단계 1/8
+설명 : 브라우저에서 https://uibank.uipath.com/loans 오픈한다
+예상되는 동작 : Use our loan calculator to see if you qualify for a loan with UiBank 확인 할 수 있다.
+클립보드 데이터 : 
+
+4.2. 단계 2/8
+설명 : Apply for a loan 클릭한다
+예상되는 동작 : Load application 화면이 열린다.
+클립보드 데이터 : 
+
+4.3. 단계 3/8
+설명 : Email Address of Requester 텍스트필드에 이메일 입력
+예상되는 동작 : Enter email address 에 이메일이 채워진다.
+클립보드 데이터 : 이메일
+
+4.4. 단계 4/8
+설명 : GLoan Amount Requested 텍스트필드에 50000 입력한다
+예상되는 동작 : Enter load amount you are looking for 에 50000 채워진다
+클립보드 데이터 : 50000
+
+4.5. 단계 5/8
+설명 : Loan Tern 텍스트필드에 10 선택한다
+예상되는 동작 : Select you load term 에 10 채워진다.
+클립보드 데이터 : 10
+
+4.6. 단계 6/8
+설명 : Current Yearly Income(Before Taxes) 텍스트 필드에 10000 입력한다.
+예상되는 동작 : how much do you make before taxes a year? 에 10000 채워진다.
+클립보드 데이터 : 10000
+
+4.7. 단계 7/8
+설명 : Age 에 15 입력한다
+예상되는 동작 : Please enter your age에 15 채워진다.
+클립보드 데이터 : 15
+
+4.8. 단계 8/8
+설명 : Submit Load Application 클릭한다.
+예상되는 동작 : not been appreved 이어야 한다. not be approved 확인한다.
+클립보드 데이터 : You must be at least 18 years old for a loan and the loan must not exceed 100k
+
+테스트 사례3
+1. 이름 : 프로젝트코드_RF001_TC002. Create a Strong Password
+2. 설명 : RPA Sample 사이트의 Create a Strong Password 기능 확인한다.
+3. 레이블 : RF001
+
+테스트 사례4
+1. 이름 : 프로젝트코드_RF002_TC002. APply For a New Account
+2. 설명 : 새로운 계좌 개설이 되는지 확인한다.
+3. 레이블 : RF002
