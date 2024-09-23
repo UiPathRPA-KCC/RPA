@@ -5,6 +5,7 @@
 
 # 교육 강사 이메일
 hjchoi@kcc.co.kr (최효준 대리)
+grcha@kcc.co.kr  (차가람 주임)
 
 # 교육평가서 링크
 https://forms.gle/8BBj2xriYTbvJzGR6
