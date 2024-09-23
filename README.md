@@ -4,8 +4,8 @@
 (교재는 C드라이브 기준으로 작성되어 있습니다.)
 
 # 교육 강사 이메일
-hjchoi@kcc.co.kr (최효준 대리)
-grcha@kcc.co.kr  (차가람 주임)
+- hjchoi@kcc.co.kr (최효준 대리)
+- grcha@kcc.co.kr  (차가람 주임)
 
 # 교육평가서 링크
 https://forms.gle/8BBj2xriYTbvJzGR6
