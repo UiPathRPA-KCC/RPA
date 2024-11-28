@@ -4,6 +4,7 @@
 (교재는 C드라이브 기준으로 작성되어 있습니다.)
 
 # 교육 강사 이메일
+- jdh@kcc.co.kr (정도혜 과장)
 - dykim@kcc.co.kr (김다영 대리)
 - hjchoi@kcc.co.kr (최효준 대리)
 - grcha@kcc.co.kr  (차가람 주임)
