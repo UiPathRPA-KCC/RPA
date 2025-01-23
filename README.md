@@ -7,7 +7,7 @@
 - jdh@kcc.co.kr (정도혜 과장)
 - dykim@kcc.co.kr (김다영 대리)
 - hjchoi@kcc.co.kr (최효준 대리)
-- grcha@kcc.co.kr  (차가람 주임)
+- grcha@kcc.co.kr  (차가람 대리)
 
 # 교육평가서 링크
 https://forms.gle/8BBj2xriYTbvJzGR6
