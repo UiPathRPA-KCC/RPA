@@ -1,0 +1,9 @@
+Site:
+https://uibank.uipath.com/loans/apply
+
+Swagger:
+https://uibank-api.uipath.com/explorer/swagger.json
+
+API:
+https://uibank-api.uipath.com/api/
+
