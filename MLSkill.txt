@@ -1,1 +1,3 @@
-https://ai-uipath-we-b.deskover.com/public/mlskills/d490c6e7-9605-4f72-a933-6c7072379c24/ddafc857-46b0-49bc-b2c7-6e95c0b84723/hjchoi-invoice-mlskill-250626
+API KEY : jpXD+KT7S5by592ClCuaNPimPo6B24iVIGA+q82WOM4Eapc1VPfDaQjca9kQQPK1sX8t3o2acWtKG/t8V6Ipjw==
+
+ML SKill : https://ai-uipath-we-b.deskover.com/public/mlskills/d490c6e7-9605-4f72-a933-6c7072379c24/ddafc857-46b0-49bc-b2c7-6e95c0b84723/hjchoi-invoice-mlskill-250626
